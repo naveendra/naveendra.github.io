@@ -13,6 +13,7 @@ const skillGroups: SkillGroup[] = [
     icon: "⚙️",
     skills: [
       { name: ".NET / C#", level: 97 },
+      { name: "VB.NET", level: 97 },
       { name: "ASP.NET Core", level: 95 },
       { name: "Clean Architecture", level: 95 },
       { name: "CQRS / MediatR", level: 90 },
